@@ -1,11 +1,13 @@
 
 
 # Gamer W
-**Soal :**
+**Soal**
+
 Can you figure out how to [cheat](https://gamer_w.tjctf.org/) the system? Grab his hat to prove your victory!
 
 ____________________________________
 **Jawaban**
+
 Pada game tersebut diberitahu bahwa harus menggunakan chrome extension **Cetus** yang dapat diunduh dari [sini](https://github.com/Qwokka/Cetus). Cetus dimanfaatkan untuk memanipulasi game tersebut. 
 Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
 ![Tampilan Cetus](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/cetus.png)
