@@ -9,6 +9,7 @@ ____________________________________
 Pada game tersebut diberitahu bahwa harus menggunakan chrome extension **Cetus** yang dapat diunduh dari [sini](https://github.com/Qwokka/Cetus). Cetus dimanfaatkan untuk memanipulasi game tersebut. 
 Langkah pertama, masuk ke dalam shop. Yang dapat kita ubah adalah value dari gold itu sendiri. Search menggunakan Cetus dengan comparison operator **EQ** dan value type **f32**. 
 ![Tampilan Cetus](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/cetus.png)
+
 Setelah dicari, akan didapatkan kode untuk gold adalah : `0x02111f3c`. Kemudian bookmark dan ubah value goldnya menjadi banyak untuk membeli semua yang ada di shop. 
 Level 1 akan melawan 1 monster hijau yang bisa diselesaikan tanpa menggunakan cheat apapun.
 ![Lv 1](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Web/Gamer%20W/lv%201.PNG)
