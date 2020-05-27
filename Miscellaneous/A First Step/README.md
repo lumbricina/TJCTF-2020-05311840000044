@@ -6,6 +6,7 @@ The first flag is tjctf{so0p3r_d0oper_5ecr3t}. Submit it to get your first point
 ____________________________________
 
 **Jawaban**
+
 Sudah terdapat flag pada soal.
 ____________________________________
 **Flag**
