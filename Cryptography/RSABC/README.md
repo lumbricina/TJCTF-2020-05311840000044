@@ -1,7 +1,8 @@
 
 
 # RSABC
-**Soal :**
+**Soal**
+
 I was just listening to some relaxing ASMR when a notification popped up with this. ???
 
 n = 57772961349879658023983283615621490728299498090674385733830087914838280699121
@@ -10,6 +11,7 @@ c = 3691388536666610243828873295397779835256114629872552488180584049776244882813
 ____________________________________
 
 **Jawaban**
+
 Soal ini mirip dengan soal Easy as RSA pada TJCTF 2019. Langkah pertama dalah melakukan faktorisasi pada `n` menggunakan [website ini](factordb.com). Faktor dari `n` disimpan dalam `p` dan `q`
 
 ```
