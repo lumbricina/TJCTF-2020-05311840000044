@@ -4,7 +4,7 @@
 **Soal :**
 Who made this [meme](https://static.tjctf.org/d25fe79e6276ed73a0f7009294e28c035437d7c7ffe2f46285e9eb5ac94b6bec_meme.png)? [I made this meme](https://www.reddit.com/r/lingling40hrs/comments/gam2if/this_popped_in_my_mind_as_i_was_playing_it_and_i/)! unless.....
 
-
+![](https://github.com/lumbricina/TJCTF-2020/blob/master/Forensics/Ling%20Ling/meme.png)
 
 -------------------------------------------------------------------------------
 **Jawaban**
