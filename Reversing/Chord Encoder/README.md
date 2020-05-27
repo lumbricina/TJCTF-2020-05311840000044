@@ -1,6 +1,6 @@
 
 
-# Circles
+# Chord Encoder
 **Soal**
 
 I tried creating my own [chords](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Reversing/Chord%20Encoder/chords.txt), but my [encoded sheet music](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Reversing/Chord%20Encoder/notes.txt) is a little hard to read. Please play me my song!
