@@ -4,8 +4,8 @@ Strife, conflict, friction, hostility, disagreement. Come chat with us! We'll be
 ____________________________________
 
 **Jawaban**
-Join grup discord dari TJCTF 2020 dan terdapat gambar yang menunjukkan flagnya.
-![flag]()
+Join grup discord dari TJCTF 2020 dan terdapat gambar yang menunjukkan flagnya. Flag tersebut harus dilihat dengan dark mode atau black background.
+![flag](https://github.com/lumbricina/TJCTF-2020-05311840000044/blob/master/Miscellaneous/Discord/flag.png)
 ____________________________________
 **Flag**
 
