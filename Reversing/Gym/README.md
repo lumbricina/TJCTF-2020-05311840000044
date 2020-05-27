@@ -9,7 +9,7 @@ ____________________________________
 
 **Jawaban**
 
-Langkah pertama jalankan `nc p1.tjctf.org 8008` di terminal. Akan muncul 7 pertanyaan yang sama untuk dijawab. Melalui berbagai percobaan, program tersebut di reverse menjadi c program dengan ketentuan berikut :
+Langkah pertama jalankan `nc p1.tjctf.org 8008` di terminal. Akan muncul 7 pertanyaan yang sama untuk dijawab. Melalui berbagai percobaan menggunakan ghidra, program tersebut di reverse menjadi c program dengan ketentuan berikut :
 
 1. eat_healthy = -4
 2. do_pushup = -1
