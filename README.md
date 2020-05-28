@@ -16,8 +16,8 @@ Cryptography | Forensics | Miscellaneous | Reversing | Web | Binary
 [Tap Dancing](https://github.com/lumbricina/TJCTF-2020-05311840000044/tree/master/Cryptography/Tap%20Dancing) | Gamer F | arabfunny | Bad Python | Weak Password | Stop
 [Titanic](https://github.com/lumbricina/TJCTF-2020-05311840000044/tree/master/Cryptography/Titanic) | Cookie Monster | Timed | ASMR | Congenial Octo Couscous | Cookie Library
 [Typewriter](https://github.com/lumbricina/TJCTF-2020-05311840000044/tree/master/Cryptography/Typewriter) | Corrupted Project | Truly Terrible Why | Comprehensive 2 | File Viewer | Naughty
-RGBSA |  | Slicer | FB Library |  | 
+RGBSA |  | Slicer | FB Library | Admin Secret | 
 Home Rolled |  | Jarvis | Gamer R | Circus | 
 Difficult Decryption |  | Gamer M |  | Moar Horse 4 | 
-[]() |  |  |  | Admin Secret | 
+[]() |  |  |  |  | 
 []() |  |  |  |  |  
